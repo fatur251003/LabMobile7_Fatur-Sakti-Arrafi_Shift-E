@@ -17,7 +17,7 @@ Praktikum Pemob Shift E<br>
    
    "<ion-content>
   <ion-card>
-    <img src="assets/images/marseler.jpg" alt="Kang parkir pesawat" />
+    <img src = assets/images/marseler.jpg alt="Kang parkir pesawat""/>
     <ion-card-header>
       <ion-card-title><h1>Marsheller</h1></ion-card-title>
       <ion-card-subtitle>Marsheller merupakan petugas yang memiliki peran untuk mengarahkan Pesawat menuju tempat parkir yang benar</ion-card-subtitle>
@@ -31,7 +31,7 @@ Praktikum Pemob Shift E<br>
 
 <ion-content>
   <ion-card>
-    <img src="assets/images/pushtruck.jpg" alt="Pushback Car" />
+    <img 'src=assets/images/pushtruck.jpg' alt="Pushback Car" />
     <ion-card-header>
       <ion-card-title><h1>Pushback Car</h1></ion-card-title>
       <ion-card-subtitle>Pushback Car merupakan kendaraan yang digunakan untuk mendorong mundur pesawat dari Apron menuju Taxiway</ion-card-subtitle>
