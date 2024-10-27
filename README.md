@@ -22,8 +22,8 @@ Praktikum Pemob Shift E<br>
 <h1>Penjelasan Komponen</h1>
 <li>
   <ul>
-    <ion-card>: Komponen utama untuk card.
-    <ion-card-header>: Bagian header card, di mana kita bisa meletakkan judul dan subjudul.
+    "<ion-card>": Komponen utama untuk card.
+    "<ion-card-header>": Bagian header card, di mana kita bisa meletakkan judul dan subjudul.
     <ion-card-title>: Menentukan judul dari card.
     <ion-card-subtitle>: Menentukan subjudul dari card.
     <ion-card-content>: Bagian isi/konten card.
