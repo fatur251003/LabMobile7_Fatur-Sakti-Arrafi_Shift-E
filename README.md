@@ -15,33 +15,7 @@ Praktikum Pemob Shift E<br>
 2. Buka file folder.page.html di dalam folder src/app/folder/
 3. Tambahkan Component pada folder.page.html dengan mengetikan kode berikut:
    
-   "<ion-content>
-  <ion-card>
-    <img src = assets/images/marseler.jpg alt="Kang parkir pesawat""/>
-    <ion-card-header>
-      <ion-card-title><h1>Marsheller</h1></ion-card-title>
-      <ion-card-subtitle>Marsheller merupakan petugas yang memiliki peran untuk mengarahkan Pesawat menuju tempat parkir yang benar</ion-card-subtitle>
-    </ion-card-header>
-    
-  <ion-card-content>
-      Ini adalah komponen card. ditambahkan oleh <b>Fatur Sakti Arrafi</b> dengan NIM <b>H1D022041</b>
-    </ion-card-content>
-  </ion-card>
-</ion-content>
-
-<ion-content>
-  <ion-card>
-    <img 'src=assets/images/pushtruck.jpg' alt="Pushback Car" />
-    <ion-card-header>
-      <ion-card-title><h1>Pushback Car</h1></ion-card-title>
-      <ion-card-subtitle>Pushback Car merupakan kendaraan yang digunakan untuk mendorong mundur pesawat dari Apron menuju Taxiway</ion-card-subtitle>
-    </ion-card-header>
-  
-<ion-card-content>
-      Ini adalah komponen card. ditambahkan oleh <b>Fatur Sakti Arrafi</b> dengan NIM <b>H1D022041</b>
-    </ion-card-content>
-  </ion-card>
-</ion-content>"
+![alt text](https://github.com/fatur251003/LabMobile7_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-27%20205840.png)
 
 4. Jalankan Aplikasi dengan mengetikan iconic serve pada terminal
 
