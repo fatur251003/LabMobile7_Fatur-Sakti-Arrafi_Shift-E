@@ -18,14 +18,3 @@ Praktikum Pemob Shift E<br>
 ![alt text](https://github.com/fatur251003/LabMobile7_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-27%20205840.png)
 
 4. Jalankan Aplikasi dengan mengetikan iconic serve pada terminal
-
-<h1>Penjelasan Komponen</h1>
-<li>
-  <ul>
-    "<ion-card>": Komponen utama untuk card.
-    "<ion-card-header>": Bagian header card, di mana kita bisa meletakkan judul dan subjudul.
-    <ion-card-title>: Menentukan judul dari card.
-    <ion-card-subtitle>: Menentukan subjudul dari card.
-    <ion-card-content>: Bagian isi/konten card.
-  </ul>
-</li>
