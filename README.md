@@ -15,7 +15,7 @@ Praktikum Pemob Shift E<br>
 2. Buka file folder.page.html di dalam folder src/app/folder/
 3. Tambahkan Component pada folder.page.html dengan mengetikan kode berikut:
    
-   <ion-content>
+   "<ion-content>
   <ion-card>
     <img src="assets/images/marseler.jpg" alt="Kang parkir pesawat" />
     <ion-card-header>
@@ -41,7 +41,7 @@ Praktikum Pemob Shift E<br>
       Ini adalah komponen card. ditambahkan oleh <b>Fatur Sakti Arrafi</b> dengan NIM <b>H1D022041</b>
     </ion-card-content>
   </ion-card>
-</ion-content>
+</ion-content>"
 
 4. Jalankan Aplikasi dengan mengetikan iconic serve pada terminal
 
